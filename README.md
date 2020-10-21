@@ -6,13 +6,14 @@ I analyze complex problems and implement new statistical and machine learning te
 
 I have worked in experimental sciences, clinical, financial and healthcare domains. I have worked in industry and am domain certified in finance and mortgage.
 
-Here are some ideas to get you started:
 
 - 🔭 I am currently working on analyzing complex problems and implementing new statistical and machine learning techniques for deriving insights from large amounts of data
 
+- 🌱 I’m currently working on data science, computational biology and machine learning
+
 - 📫 How to reach me: ...
 
-https://sites.google.com/site/neelsoumya/Home
+https://sites.google.com/site/neelsoumya/
 
 - 😄 Pronouns: He/him
 
