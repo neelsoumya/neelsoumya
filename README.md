@@ -14,6 +14,12 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
 - 📫 How to reach me and more information on my work: ...
 
      https://sites.google.com/site/neelsoumya/
+     
+- ⚡ Publications and software: 
+
+     https://sites.google.com/site/neelsoumya/publications
+     
+     https://sites.google.com/site/neelsoumya/software
 
 - 😄 Pronouns: He/him
 
