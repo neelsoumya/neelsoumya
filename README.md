@@ -17,6 +17,10 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
 
 - 😄 Pronouns: He/him
 
+- 💬 I work very closely with domain experts and stakeholders and use computational tools for good. I outline my design and work philosophy below.
+
+     * ![data science philosophy](research_philosophy.png)
+
 <!--
 **neelsoumya/neelsoumya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
