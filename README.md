@@ -13,11 +13,11 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
 
 - 📫 How to reach me: ...
 
-      * https://sites.google.com/site/neelsoumya/
+     https://sites.google.com/site/neelsoumya/
 
 - 😄 Pronouns: He/him
 
-- 💬 I work very closely with domain experts and stakeholders and use computational tools for good. I outline my design and work philosophy below.
+- 👯 I work very closely with domain experts and stakeholders and use computational tools for good. I outline my design and work philosophy below.
 
      * ![data science philosophy](research_philosophy.png)
 
