@@ -11,7 +11,7 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
 
 - 🌱 I’m currently working on data science, computational biology, bioinformatics and machine learning
 
-- 📫 How to reach me: ...
+- 📫 How to reach me and more information on my work: ...
 
      https://sites.google.com/site/neelsoumya/
 
