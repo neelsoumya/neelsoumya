@@ -25,6 +25,11 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
 
 - 👯 I work very closely with domain experts and stakeholders and use computational tools for good. I outline my design and work philosophy below.
 
+     * My software and data science portfolio is below:
+     
+     https://github.com/neelsoumya/public_open_source_data_science
+     
+
      * ![data science philosophy](research_philosophy.png)
 
 <!--
