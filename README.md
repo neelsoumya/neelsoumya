@@ -35,6 +35,14 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
 
      https://github.com/neelsoumya/paper_preprints
      
+- 💬 Teaching
+
+     https://sites.google.com/site/neelsoumya/teaching
+     
+     https://github.com/neelsoumya/butterfly_detector
+     
+     https://github.com/neelsoumya/basic_statistics
+     
      
 <!--
 **neelsoumya/neelsoumya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
