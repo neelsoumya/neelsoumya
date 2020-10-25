@@ -31,6 +31,10 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
      
      https://github.com/neelsoumya/public_open_source_data_science
      
+- ✨ Preprints of my papers
+
+     https://github.com/neelsoumya/paper_preprints
+     
      
 <!--
 **neelsoumya/neelsoumya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
