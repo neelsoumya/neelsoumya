@@ -35,7 +35,7 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
 
      https://github.com/neelsoumya/paper_preprints
      
-- 💬 Teaching
+- 💬 Teaching resources
 
      https://sites.google.com/site/neelsoumya/teaching
      
