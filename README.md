@@ -43,6 +43,9 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
      
      https://github.com/neelsoumya/basic_statistics
      
+- 💬 Talks that I have given
+
+     https://www.youtube.com/watch?v=jDIt60LVyWY&list=PL_3n--M9GNtBevpfzHkelrRj03wVjAU0Q
      
 <!--
 **neelsoumya/neelsoumya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
