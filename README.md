@@ -15,10 +15,12 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
 
      https://sites.google.com/site/neelsoumya/
      
-- ⚡ Publications and software: 
+- ⚡  Publications: 
 
      https://sites.google.com/site/neelsoumya/publications
      
+- 🌱 Software:
+
      https://sites.google.com/site/neelsoumya/software
 
      
@@ -45,7 +47,7 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
      
      https://github.com/neelsoumya/basic_statistics
      
-- 💬 Talks that I have given
+- 💬 Talks I have given
 
      https://www.youtube.com/watch?v=jDIt60LVyWY&list=PL_3n--M9GNtBevpfzHkelrRj03wVjAU0Q
      
