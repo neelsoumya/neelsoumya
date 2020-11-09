@@ -15,11 +15,11 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
 
      https://sites.google.com/site/neelsoumya/
      
-- ⚡  Publications: 
+- ⚡  Publications
 
      https://sites.google.com/site/neelsoumya/publications
      
-- 🌱 Software:
+- 🌱 Software
 
      https://sites.google.com/site/neelsoumya/software
 
