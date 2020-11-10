@@ -13,7 +13,7 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
 
 - 📫 How to reach me and get more information on my work:
 
-     https://sites.google.com/site/neelsoumya/
+     https://sites.google.com/site/neelsoumya
      
 - ⚡  Publications
 
