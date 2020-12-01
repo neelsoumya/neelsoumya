@@ -29,7 +29,7 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
      * ![data science philosophy](research_philosophy.png)
 
 
-- 😄 My software and data science portfolio is below:
+- 😄 My software and data science portfolio is below
      
      https://github.com/neelsoumya/public_open_source_data_science
      
