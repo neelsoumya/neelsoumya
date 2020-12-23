@@ -9,7 +9,7 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
 
 - 🔭 I am currently working on analyzing complex problems and implementing new statistical and machine learning techniques for deriving insights from large amounts of data
 
-- 🌱 I work on data science, computational biology, bioinformatics and machine learning
+- 🌱 I work on data science, machine learning, computational biology, bioinformatics, computational immunology and clinical informatics
 
 - 📫 How to reach me and get more information on my work
 
