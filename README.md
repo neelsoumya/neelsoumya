@@ -47,6 +47,8 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
      
      https://github.com/neelsoumya/basic_statistics
      
+     https://github.com/neelsoumya/teaching_resources
+     
 - 💬 Talks I have given
 
      https://www.youtube.com/watch?v=jDIt60LVyWY&list=PL_3n--M9GNtBevpfzHkelrRj03wVjAU0Q
