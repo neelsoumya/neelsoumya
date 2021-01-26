@@ -57,6 +57,8 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
 
      https://www.youtube.com/watch?v=jDIt60LVyWY&list=PL_3n--M9GNtBevpfzHkelrRj03wVjAU0Q
      
+     https://www.youtube.com/watch?v=omxbpel-b64&feature=youtu.be
+     
 <!--
 **neelsoumya/neelsoumya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
