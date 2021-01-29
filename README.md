@@ -49,9 +49,13 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
      
      https://github.com/neelsoumya/teaching_resources
      
-     https://www.youtube.com/watch?v=omxbpel-b64&feature=youtu.be
+     Teaching demo video 
      
-     https://osf.io/25gnz/
+          * https://www.youtube.com/watch?v=omxbpel-b64&feature=youtu.be
+     
+     Collated teachung resources
+     
+          * https://osf.io/25gnz/
      
 - 💬 Talks I have given
 
