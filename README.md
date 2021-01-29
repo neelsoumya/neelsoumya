@@ -51,11 +51,11 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
      
      Teaching demo video 
      
-          * https://www.youtube.com/watch?v=omxbpel-b64&feature=youtu.be
+           https://www.youtube.com/watch?v=omxbpel-b64&feature=youtu.be
      
      Collated teachung resources
      
-          * https://osf.io/25gnz/
+           https://osf.io/25gnz/
      
 - 💬 Talks I have given
 
