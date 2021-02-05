@@ -55,7 +55,7 @@ I have worked in experimental sciences, clinical, financial and healthcare domai
      
      https://www.youtube.com/watch?v=4_la9-Ehvmo
      
-     Collated teachung resources
+     Collated teaching resources
      
      https://osf.io/25gnz/
      
