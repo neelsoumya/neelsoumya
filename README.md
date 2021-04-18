@@ -22,7 +22,7 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
      https://sites.google.com/site/neelsoumya/software
 
      
-- 👯 I work very closely with domain experts and stakeholders and use computational tools for good. I outline my design and work philosophy below.     
+- 👯 I work very closely with domain experts and stakeholders and use computational tools for social good. I outline my design and work philosophy below.     
 
      * ![data science philosophy](research_philosophy.png)
 
