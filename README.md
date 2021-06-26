@@ -53,7 +53,7 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
      
      https://www.youtube.com/watch?v=4_la9-Ehvmo
      
-     Collated teaching resources
+     Collected teaching resources
      
      https://osf.io/25gnz/
      
