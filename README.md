@@ -27,7 +27,7 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
      * ![data science philosophy](research_philosophy.png)
 
 
-- 😄 My software and data science portfolio is below
+- 😄 My software and data science portfolio can be found here
      
      https://github.com/neelsoumya/public_open_source_data_science
      
