@@ -71,6 +71,9 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neelsoumya)](https://github.com/neelsoumya/github-readme-stats)
 
+The stats above were generated using
+
+https://github.com/anuraghazra/github-readme-stats
 
 <!--
 **neelsoumya/neelsoumya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
