@@ -66,6 +66,9 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
      https://www.youtube.com/watch?v=4_la9-Ehvmo
      
      
+     
+![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=neelsoumya&count_private=true)
+     
 <!--
 **neelsoumya/neelsoumya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
