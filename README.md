@@ -68,7 +68,10 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
      
      
 ![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=neelsoumya&count_private=true&show_icons=true&theme=radical)
-     
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neelsoumya)](https://github.com/neelsoumya/github-readme-stats)
+
+
 <!--
 **neelsoumya/neelsoumya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
