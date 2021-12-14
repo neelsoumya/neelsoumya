@@ -21,7 +21,12 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
 
      https://sites.google.com/site/neelsoumya/software
 
-     
+     - 💬 R packages I have written
+          - https://github.com/neelsoumya/dsSurvival
+          - https://github.com/neelsoumya/dsSurvivalClient
+          - https://neelsoumya.github.io/dsSurvivalbookdown/
+
+
 - 👯 I work very closely with domain experts and stakeholders and use computational tools for social good. I outline my design and work philosophy below.     
 
      * ![data science philosophy](research_philosophy.png)
