@@ -80,6 +80,40 @@ The stats above were generated using
 
 https://github.com/anuraghazra/github-readme-stats
 
+
+## Packages
+
+R packages I have written
+
+ https://github.com/neelsoumya/dsSurvival
+ https://github.com/neelsoumya/dsSurvivalClient
+ https://neelsoumya.github.io/dsSurvival_bookdown/
+
+
+## Software
+
+https://sites.google.com/site/neelsoumya/software
+
+     
+## Publications
+
+https://sites.google.com/site/neelsoumya/publications
+     
+
+R packages I have written
+
+ https://github.com/neelsoumya/dsSurvival
+ https://github.com/neelsoumya/dsSurvivalClient
+ https://neelsoumya.github.io/dsSurvival_bookdown/
+
+
+## More information
+
+https://sites.google.com/site/neelsoumya
+
+
+
+
 <!--
 **neelsoumya/neelsoumya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
