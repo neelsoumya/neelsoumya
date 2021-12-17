@@ -102,13 +102,27 @@ https://sites.google.com/site/neelsoumya/software
 https://sites.google.com/site/neelsoumya/publications
      
 
-R packages I have written
+## Teaching
 
- https://github.com/neelsoumya/dsSurvival
- 
- https://github.com/neelsoumya/dsSurvivalClient
- 
- https://neelsoumya.github.io/dsSurvival_bookdown/
+https://sites.google.com/site/neelsoumya/teaching
+     
+https://github.com/neelsoumya/butterfly_detector
+     
+https://github.com/neelsoumya/basic_statistics
+     
+https://github.com/neelsoumya/teaching_resources
+     
+Teaching demo videos 
+     
+https://www.youtube.com/watch?v=omxbpel-b64&feature=youtu.be
+     
+https://www.youtube.com/watch?v=4_la9-Ehvmo
+     
+Collected teaching resources
+     
+https://osf.io/25gnz/
+     
+
 
 
 ## More information
