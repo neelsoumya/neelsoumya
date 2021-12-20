@@ -92,13 +92,17 @@ R packages I have written
  https://neelsoumya.github.io/dsSurvival_bookdown/
 
 
-Other minor packages I have modified from other resources/open source repositories (credit goes to the original authors)
+Other minor packages I have modified/contributed to from other resources/open source repositories (credit goes to the original authors)
 
  https://github.com/neelsoumya/meditator
  
  https://github.com/neelsoumya/dsMiscellaneous
  
  https://github.com/neelsoumya/rlib
+
+ https://github.com/neelsoumya/dsSyntheticClient
+ 
+ https://github.com/neelsoumya/dsSynthetic-1
 
 
 ## Software
