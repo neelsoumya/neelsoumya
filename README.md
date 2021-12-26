@@ -119,24 +119,6 @@ https://sites.google.com/site/neelsoumya/publications
 
 https://sites.google.com/site/neelsoumya/teaching
      
-https://github.com/neelsoumya/butterfly_detector
-     
-https://github.com/neelsoumya/basic_statistics
-     
-https://github.com/neelsoumya/teaching_resources
-     
-Teaching demo videos 
-     
-https://www.youtube.com/watch?v=omxbpel-b64&feature=youtu.be
-     
-https://www.youtube.com/watch?v=4_la9-Ehvmo
-     
-Collected teaching resources
-     
-https://osf.io/25gnz/
-     
-
-
 
 ## More information
 
