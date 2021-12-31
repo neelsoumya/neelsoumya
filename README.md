@@ -109,6 +109,8 @@ Other minor packages I have modified/contributed to from other resources/open so
 
 https://sites.google.com/site/neelsoumya/software
 
+https://resume.github.io/?neelsoumya
+
      
 ## Publications
 
