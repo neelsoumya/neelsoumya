@@ -111,18 +111,6 @@ https://sites.google.com/site/neelsoumya/software
 
 https://resume.github.io/?neelsoumya
 
-     
-## Publications
-
-https://sites.google.com/site/neelsoumya/publications
-     
-
-## Teaching
-
-https://sites.google.com/site/neelsoumya/teaching
-     
-
-## More information
 
 https://sites.google.com/site/neelsoumya
 
