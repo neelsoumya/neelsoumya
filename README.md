@@ -24,7 +24,7 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
      - 💬 R packages I have written
           - https://github.com/neelsoumya/dsSurvival
           - https://github.com/neelsoumya/dsSurvivalClient
-          - https://neelsoumya.github.io/dsSurvival_bookdown/
+          - https://neelsoumya.github.io/dsSurvivalbookdown/
 
 
 - 👯 I work very closely with domain experts and stakeholders and use computational tools for social good. I outline my design and work philosophy below.     
@@ -89,13 +89,11 @@ R packages I have written
  
  https://github.com/neelsoumya/dsSurvivalClient
  
- https://neelsoumya.github.io/dsSurvival_bookdown/
+ https://neelsoumya.github.io/dsSurvivalbookdown/
 
 
 Other minor packages I have modified/contributed to from other resources/open source repositories (credit goes to the original authors)
 
- https://github.com/neelsoumya/meditator
- 
  https://github.com/neelsoumya/dsMiscellaneous
  
  https://github.com/neelsoumya/rlib
@@ -103,6 +101,8 @@ Other minor packages I have modified/contributed to from other resources/open so
  https://github.com/neelsoumya/dsSyntheticClient
  
  https://github.com/neelsoumya/dsSynthetic-1
+
+ https://github.com/neelsoumya/meditator
 
 
 ## Software
