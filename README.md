@@ -17,6 +17,10 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
 
      https://sites.google.com/site/neelsoumya/publications
      
+     A video about my research
+     
+     https://www.youtube.com/watch?v=vLl4nu6Dmgk
+     
 - 🌱 Software
 
      https://sites.google.com/site/neelsoumya/software
