@@ -31,6 +31,11 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
           - https://neelsoumya.github.io/dsSurvivalbookdown/
 
 
+- ⚡ Outreach
+
+     https://github.com/neelsoumya/outreach_ppi
+
+
 - 👯 I work very closely with domain experts and stakeholders and use computational tools for social good. I outline my design and work philosophy below.     
 
      * ![data science philosophy](research_philosophy.png)
