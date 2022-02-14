@@ -61,6 +61,8 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
      
      https://github.com/neelsoumya/teaching_resources
      
+     https://github.com/neelsoumya/getting-_started_data_science
+     
      Teaching demo videos 
      
      https://www.youtube.com/watch?v=omxbpel-b64&feature=youtu.be
