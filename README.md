@@ -65,6 +65,10 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
      
      https://github.com/neelsoumya/getting-_started_data_science
      
+     https://github.com/neelsoumya/bioinformatics_resources
+     
+     https://github.com/neelsoumya/intro-machine-learning
+     
      Teaching demo videos 
      
      https://www.youtube.com/watch?v=omxbpel-b64&feature=youtu.be
