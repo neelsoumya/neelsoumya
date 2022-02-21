@@ -88,16 +88,6 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
      https://www.youtube.com/watch?v=4_la9-Ehvmo
      
      
-     
-![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=neelsoumya&count_private=true&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neelsoumya)](https://github.com/neelsoumya/github-readme-stats)
-
-The stats above were generated using
-
-https://github.com/anuraghazra/github-readme-stats
-
-
 ## Packages
 
 R packages I have written
@@ -131,6 +121,17 @@ https://resume.github.io/?neelsoumya
 
 https://sites.google.com/site/neelsoumya
 
+
+
+
+     
+![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=neelsoumya&count_private=true&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neelsoumya)](https://github.com/neelsoumya/github-readme-stats)
+
+The stats above were generated using
+
+https://github.com/anuraghazra/github-readme-stats
 
 
 
