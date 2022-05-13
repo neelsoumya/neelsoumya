@@ -40,21 +40,6 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
      https://github.com/neelsoumya/ramanujan_number_generator
 
 
-- 👯 I work very closely with domain experts and stakeholders and use computational tools for social good. I outline my design and work philosophy below.     
-
-     * ![data science philosophy](research_philosophy.png)
-
-
-- 😄 My software and data science portfolio can be found here
-     
-     https://github.com/neelsoumya/public_open_source_data_science
-     
-- ✨ Preprints of my papers
-
-     https://github.com/neelsoumya/paper_preprints
-     
-     https://bitbucket.org/neelsoumya/paper_preprints
-     
 - 💬 Teaching resources
 
      https://sites.google.com/site/neelsoumya/teaching
@@ -88,6 +73,24 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
      https://www.youtube.com/watch?v=omxbpel-b64&feature=youtu.be
      
      https://www.youtube.com/watch?v=4_la9-Ehvmo
+     
+
+
+
+- 👯 I work very closely with domain experts and stakeholders and use computational tools for social good. I outline my design and work philosophy below.     
+
+     * ![data science philosophy](research_philosophy.png)
+
+
+- 😄 My software and data science portfolio can be found here
+     
+     https://github.com/neelsoumya/public_open_source_data_science
+     
+- ✨ Preprints of my papers
+
+     https://github.com/neelsoumya/paper_preprints
+     
+     https://bitbucket.org/neelsoumya/paper_preprints
      
      
 ## Packages
