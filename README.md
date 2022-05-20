@@ -76,15 +76,15 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
      
 
 
+- 😄 My software and data science portfolio can be found here
+     
+     https://github.com/neelsoumya/public_open_source_data_science
+
 
 - 👯 I work very closely with domain experts and stakeholders and use computational tools for social good. I outline my design and work philosophy below.     
 
      * ![data science philosophy](research_philosophy.png)
 
-
-- 😄 My software and data science portfolio can be found here
-     
-     https://github.com/neelsoumya/public_open_source_data_science
      
 - ✨ Preprints of my papers
 
