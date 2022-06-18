@@ -133,6 +133,9 @@ https://www.patreon.com/soumyabanerjee
 
 <a href="https://www.patreon.com/bePatron?u=75312474" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
+Youtube channel
+
+https://www.youtube.com/channel/UCaEa-gedhvk0AUjEUjcNsmw
      
 ![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=neelsoumya&count_private=true&show_icons=true&theme=radical)
 
