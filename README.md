@@ -126,8 +126,11 @@ https://resume.github.io/?neelsoumya
 
 ## Miscellaneous
 
+Website
+
 https://sites.google.com/site/neelsoumya
 
+Patreon
 
 https://www.patreon.com/soumyabanerjee
 
