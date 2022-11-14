@@ -118,6 +118,8 @@ Other minor packages I have modified/contributed to from other resources/open so
 
  https://github.com/neelsoumya/meditator
 
+ https://github.com/neelsoumya/ShinyDataSHIELD
+
 
 ## Software
 
