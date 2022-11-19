@@ -128,6 +128,15 @@ https://sites.google.com/site/neelsoumya/software
 https://resume.github.io/?neelsoumya
 
 
+## Graphical user interfaces
+
+https://sb2333medschl.shinyapps.io/meditator/
+
+https://sb2333medschl.shinyapps.io/cosmic_loneliness/
+
+https://neelsoumya.shinyapps.io/accident_prediction/
+
+
 ## Miscellaneous
 
 Website
