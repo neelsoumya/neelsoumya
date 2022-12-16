@@ -37,6 +37,8 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
 
      https://github.com/neelsoumya/outreach_ppi
      
+     https://github.com/neelsoumya/ai_outreach
+     
      https://github.com/neelsoumya/deep_dali
      
      https://github.com/neelsoumya/ramanujan_number_generator
