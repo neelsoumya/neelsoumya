@@ -4,6 +4,9 @@ My name is Soumya Banerjee (first name pronounced as show-mo) and I am a senior 
 
 I analyze complex problems and implement new statistical and machine learning techniques for deriving insights from large amounts of data.
 
+I work at the intersection of complex systems and explainable Artificial Intelligence.
+
+
 I have worked in the experimental sciences, clinical, financial and healthcare domains. I have also worked in industry and was domain certified in finance and mortgage.
 
 
