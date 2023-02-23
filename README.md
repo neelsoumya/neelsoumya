@@ -63,11 +63,17 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
      
      https://github.com/neelsoumya/intro-machine-learning
      
+     https://github.com/neelsoumya/special_topics_unconventional_AI
+     
      Teaching demo videos 
      
      https://www.youtube.com/watch?v=omxbpel-b64&feature=youtu.be
      
      https://www.youtube.com/watch?v=4_la9-Ehvmo
+     
+     https://www.youtube.com/watch?v=o7EXf265sTU
+     
+     https://www.youtube.com/watch?v=ZDSj-jEoaoc
      
      Collected teaching resources
      
