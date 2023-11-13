@@ -64,6 +64,8 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
      https://github.com/neelsoumya/intro-machine-learning
      
      https://github.com/neelsoumya/special_topics_unconventional_AI
+
+     https://github.com/neelsoumya/visualization_lecture
      
      Teaching demo videos 
      
