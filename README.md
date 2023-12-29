@@ -140,6 +140,13 @@ https://sites.google.com/site/neelsoumya/software
 
 https://resume.github.io/?neelsoumya
 
+## Software created by my students
+
+https://github.com/neelsoumya/complex_stories_explanations
+
+https://github.com/neelsoumya/patient_stratification_explainable_AI
+
+https://github.com/mxbi/arckit
 
 ## Graphical user interfaces
 
