@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Soumya Banerjee (first name pronounced as show-mo) and I am a senior research fellow at the University of Cambridge.
+My name is Soumya Banerjee (first name pronounced as show-mo) and I am a senior research fellow and affiliated lecturer at the University of Cambridge.
 
 I analyze complex problems and implement new statistical and machine learning techniques for deriving insights from large amounts of data.
 
