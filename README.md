@@ -66,6 +66,8 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
      https://github.com/neelsoumya/special_topics_unconventional_AI
 
      https://github.com/neelsoumya/visualization_lecture
+
+     https://github.com/neelsoumya/intro_to_LMMs
      
      Teaching demo videos 
      
@@ -155,6 +157,8 @@ https://sb2333medschl.shinyapps.io/meditator/
 https://sb2333medschl.shinyapps.io/cosmic_loneliness/
 
 https://neelsoumya.shinyapps.io/accident_prediction/
+
+https://sb2333medschl.shinyapps.io/drake_shiny/
 
 
 ## Miscellaneous
