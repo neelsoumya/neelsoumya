@@ -1,191 +1,135 @@
-### Hello! 👋
+# 👋 Hello, I'm Soumya Banerjee! (pronounced show-mo)
 
-My name is Soumya Banerjee (first name pronounced as show-mo) and I am a senior research fellow and affiliated lecturer at the University of Cambridge.
+🎓 **Senior Research Fellow & Affiliated Lecturer**  
+🌍 University of Cambridge
 
-I analyze complex problems and implement new statistical and machine learning techniques for deriving insights from large amounts of data.
+---
 
-I work at the intersection of complex systems and explainable Artificial Intelligence.
+## 🚀 About Me
 
+I tackle complex problems and create new statistical and machine learning techniques to extract insights from large datasets. My work lies at the fascinating intersection of **complex systems** and **explainable AI**.
 
-I have worked in the experimental sciences, clinical, financial and healthcare domains. I have also worked in industry and was domain certified in finance and mortgage.
+I've worn many hats:  
+🔬 Experimental scientist  
+🏥 Clinical researcher  
+💼 Finance & industry professional (domain certified in finance & mortgage)  
 
+---
 
-- 🔭 I analyze complex problems and implement new statistical and machine learning techniques for deriving insights from large amounts of data
+## 🛠️ What I Do
 
-- 🌱 I work on data science, machine learning, computational biology, bioinformatics, computational immunology, computational immunogenomics and clinical informatics
+- 🔭 Analyze complex systems with data science and ML  
+- 🌱 Research areas:  
+  - Data Science, Machine Learning  
+  - Computational Biology, Bioinformatics  
+  - Computational Immunology & Immunogenomics  
+  - Clinical Informatics
 
-- 📫 How to reach me and get more information on my work
+---
 
-     https://sites.google.com/site/neelsoumya
-     
-- ⚡  Publications
+## 📬 Get in Touch / More About Me
 
-     https://sites.google.com/site/neelsoumya/publications
-     
-     A video about my research
-     
-     https://www.youtube.com/watch?v=vLl4nu6Dmgk
-     
-- 🌱 Software
+- 🌐 [Personal website](https://sites.google.com/site/neelsoumya)
+- 📄 [Publications](https://sites.google.com/site/neelsoumya/publications)
+- 🎥 [Research video](https://www.youtube.com/watch?v=vLl4nu6Dmgk)
+- 💻 [Software](https://sites.google.com/site/neelsoumya/software)
 
-     https://sites.google.com/site/neelsoumya/software
+---
 
-     - 💬 R packages I have written
-          - https://github.com/neelsoumya/dsSurvival
-          - https://github.com/neelsoumya/dsSurvivalClient
-          - https://neelsoumya.github.io/dsSurvivalbookdown/
+## 📦 Featured R Packages
 
+- [dsSurvival](https://github.com/neelsoumya/dsSurvival)
+- [dsSurvivalClient](https://github.com/neelsoumya/dsSurvivalClient)
+- [dsSurvivalbookdown](https://neelsoumya.github.io/dsSurvivalbookdown/)
 
-- ⚡ Outreach
+#### 🛠️ More Packages
 
-     https://github.com/neelsoumya/outreach_ppi
-     
-     https://github.com/neelsoumya/ai_outreach
-     
-     https://github.com/neelsoumya/deep_dali
-     
-     https://github.com/neelsoumya/ramanujan_number_generator
+- [dsMiscellaneous](https://github.com/neelsoumya/dsMiscellaneous)  
+- [rlib](https://github.com/neelsoumya/rlib)  
+- [dsSyntheticClient](https://github.com/neelsoumya/dsSyntheticClient)  
+- [dsSynthetic-1](https://github.com/neelsoumya/dsSynthetic-1)  
+- [meditator](https://github.com/neelsoumya/meditator)  
+- [ShinyDataSHIELD](https://github.com/neelsoumya/ShinyDataSHIELD)
 
+---
 
-- 💬 Teaching resources
+## 🌟 Outreach Projects
 
-     https://sites.google.com/site/neelsoumya/teaching
-     
-     https://github.com/neelsoumya/butterfly_detector
-     
-     https://github.com/neelsoumya/basic_statistics
-     
-     https://github.com/neelsoumya/teaching_resources
-     
-     https://github.com/neelsoumya/getting-_started_data_science
-     
-     https://github.com/neelsoumya/bioinformatics_resources
-     
-     https://github.com/neelsoumya/intro-machine-learning
-     
-     https://github.com/neelsoumya/special_topics_unconventional_AI
+- [outreach_ppi](https://github.com/neelsoumya/outreach_ppi)
+- [ai_outreach](https://github.com/neelsoumya/ai_outreach)
+- [deep_dali](https://github.com/neelsoumya/deep_dali)
+- [ramanujan_number_generator](https://github.com/neelsoumya/ramanujan_number_generator)
 
-     https://github.com/neelsoumya/visualization_lecture
+---
 
-     https://github.com/neelsoumya/intro_to_LMMs
-     
-     Teaching demo videos 
-     
-     https://www.youtube.com/watch?v=omxbpel-b64&feature=youtu.be
-     
-     https://www.youtube.com/watch?v=4_la9-Ehvmo
-     
-     https://www.youtube.com/watch?v=o7EXf265sTU
-     
-     https://www.youtube.com/watch?v=ZDSj-jEoaoc
-     
-     Collected teaching resources
-     
-     https://osf.io/25gnz/
-     
-- 💬 Talks I have given
+## 👨‍🏫 Teaching Resources
 
-     https://www.youtube.com/watch?v=jDIt60LVyWY&list=PL_3n--M9GNtBevpfzHkelrRj03wVjAU0Q
-     
-     https://www.youtube.com/watch?v=omxbpel-b64&feature=youtu.be
-     
-     https://www.youtube.com/watch?v=4_la9-Ehvmo
-     
+- [Teaching site](https://sites.google.com/site/neelsoumya/teaching)
+- [butterfly_detector](https://github.com/neelsoumya/butterfly_detector)
+- [basic_statistics](https://github.com/neelsoumya/basic_statistics)
+- [teaching_resources](https://github.com/neelsoumya/teaching_resources)
+- [getting-_started_data_science](https://github.com/neelsoumya/getting-_started_data_science)
+- [bioinformatics_resources](https://github.com/neelsoumya/bioinformatics_resources)
+- [intro-machine-learning](https://github.com/neelsoumya/intro-machine-learning)
+- [special_topics_unconventional_AI](https://github.com/neelsoumya/special_topics_unconventional_AI)
+- [visualization_lecture](https://github.com/neelsoumya/visualization_lecture)
+- [intro_to_LMMs](https://github.com/neelsoumya/intro_to_LMMs)  
+- 🎥 [Teaching demo videos](https://www.youtube.com/watch?v=omxbpel-b64&feature=youtu.be)  
+- 📚 [Collected resources (OSF)](https://osf.io/25gnz/)
 
+---
 
-- 😄 My software and data science portfolio can be found here
-     
-     https://github.com/neelsoumya/public_open_source_data_science
+## 🎤 Talks
 
+- [YouTube Talk Playlist](https://www.youtube.com/watch?v=jDIt60LVyWY&list=PL_3n--M9GNtBevpfzHkelrRj03wVjAU0Q)
+- [Featured Talk 1](https://www.youtube.com/watch?v=omxbpel-b64&feature=youtu.be)
+- [Featured Talk 2](https://www.youtube.com/watch?v=4_la9-Ehvmo)
 
-- 👯 I work very closely with domain experts and stakeholders and use computational tools for social good. I outline my design and work philosophy below.     
+---
 
-     * ![data science philosophy](research_philosophy.png)
+## 💻 Software & Portfolio
 
-     
-- ✨ Preprints of my papers
+- [My open-source portfolio](https://github.com/neelsoumya/public_open_source_data_science)
+- [Software by my students](https://github.com/neelsoumya/complex_stories_explanations)  
+  [patient_stratification_explainable_AI](https://github.com/neelsoumya/patient_stratification_explainable_AI)  
+  [arckit](https://github.com/mxbi/arckit)
 
-     https://github.com/neelsoumya/paper_preprints
-     
-     https://bitbucket.org/neelsoumya/paper_preprints
-     
-     
-## Packages
+---
 
-R packages I have written
+## 🎛️ Graphical User Interfaces
 
- https://github.com/neelsoumya/dsSurvival
- 
- https://github.com/neelsoumya/dsSurvivalClient
- 
- https://neelsoumya.github.io/dsSurvivalbookdown/
+- [meditator](https://sb2333medschl.shinyapps.io/meditator/)
+- [cosmic_loneliness](https://sb2333medschl.shinyapps.io/cosmic_loneliness/)
+- [accident_prediction](https://neelsoumya.shinyapps.io/accident_prediction/)
+- [drake_shiny](https://sb2333medschl.shinyapps.io/drake_shiny/)
 
+---
 
-Other minor packages I have modified/contributed to from other resources/open source repositories (credit goes to the original authors)
+## ✨ Preprints
 
- https://github.com/neelsoumya/dsMiscellaneous
- 
- https://github.com/neelsoumya/rlib
+- [GitHub preprints](https://github.com/neelsoumya/paper_preprints)
+- [Bitbucket preprints](https://bitbucket.org/neelsoumya/paper_preprints)
 
- https://github.com/neelsoumya/dsSyntheticClient
- 
- https://github.com/neelsoumya/dsSynthetic-1
+---
 
- https://github.com/neelsoumya/meditator
+## 🌐 Online Presence
 
- https://github.com/neelsoumya/ShinyDataSHIELD
+- 💻 [Website](https://sites.google.com/site/neelsoumya)
+- 🎥 [YouTube Channel](https://www.youtube.com/channel/UCaEa-gedhvk0AUjEUjcNsmw)
+- 🌟 [Patreon](https://www.patreon.com/soumyabanerjee)
 
-
-## Software
-
-https://sites.google.com/site/neelsoumya/software
-
-https://resume.github.io/?neelsoumya
-
-## Software created by my students
-
-https://github.com/neelsoumya/complex_stories_explanations
-
-https://github.com/neelsoumya/patient_stratification_explainable_AI
-
-https://github.com/mxbi/arckit
-
-## Graphical user interfaces
-
-https://sb2333medschl.shinyapps.io/meditator/
-
-https://sb2333medschl.shinyapps.io/cosmic_loneliness/
-
-https://neelsoumya.shinyapps.io/accident_prediction/
-
-https://sb2333medschl.shinyapps.io/drake_shiny/
-
-
-## Miscellaneous
-
-Website
-
-https://sites.google.com/site/neelsoumya
-
-Patreon
-
-https://www.patreon.com/soumyabanerjee
-
-<a href="https://www.patreon.com/bePatron?u=75312474" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-
-Youtube channel
-
-https://www.youtube.com/channel/UCaEa-gedhvk0AUjEUjcNsmw
-     
-![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=neelsoumya&count_private=true&show_icons=true&theme=radical)
-
+[![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=neelsoumya&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neelsoumya)](https://github.com/neelsoumya/github-readme-stats)
 
-The stats above were generated using
+---
 
-https://github.com/anuraghazra/github-readme-stats
+## 🧭 My Philosophy
 
+👥 I collaborate closely with domain experts and stakeholders, using computational tools for social good.
 
+![data science philosophy](research_philosophy.png)
+
+---
 
 <!--
 **neelsoumya/neelsoumya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
