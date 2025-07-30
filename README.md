@@ -11,7 +11,10 @@ I tackle complex problems and create new statistical and machine learning techni
 
 I've worn many hats:  
 🔬 Experimental scientist  
-🏥 Clinical researcher  
+🏥 Data scientist in a clinical setting
+🏥 Computational biologist
+💼 Teaching AI techniques
+💼 Developing new AI techniques
 💼 Finance & industry professional (domain certified in finance & mortgage)  
 
 ---
