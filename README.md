@@ -36,6 +36,8 @@ I've worn many hats:
 - 📄 [Publications](https://sites.google.com/site/neelsoumya/publications)
 - 🎥 [Research video](https://www.youtube.com/watch?v=vLl4nu6Dmgk)
 - 💻 [Software](https://sites.google.com/site/neelsoumya/software)
+- 💻 [CV](https://github.com/neelsoumya/CV/blob/master/CV_SoumyaBanerjee.pdf)
+
 
 ---
 
