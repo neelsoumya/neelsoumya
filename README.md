@@ -9,12 +9,20 @@
 
 I tackle complex problems and create new statistical and machine learning techniques to extract insights from large datasets. My work lies at the fascinating intersection of **complex systems** and **explainable AI**.
 
-I've worn many hats:  
+I have worn many hats:  
+
+💼 AI/Machine Learning researcher
+
 🔬 Experimental scientist  
+
 🏥 Data scientist in a clinical setting
+
 🏥 Computational biologist
+
 💼 Teaching AI techniques
+
 💼 Developing new AI techniques
+
 💼 Finance & industry professional (domain certified in finance & mortgage)  
 
 ---
