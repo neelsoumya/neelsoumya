@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Soumya Banerjee! (pronounced show-mo)
+# 👋 Hello, I am Soumya Banerjee! (pronounced show-mo)
 
 🎓 **Senior Research Fellow & Affiliated Lecturer**  
 🌍 University of Cambridge
