@@ -1,6 +1,6 @@
 # 👋 Hello, I am Soumya Banerjee! (pronounced show-mo)
 
-🎓 **Senior Research Fellow & Affiliated Lecturer**  
+🎓 **Assistant Research Professor**  
 🌍 University of Cambridge
 
 ---
