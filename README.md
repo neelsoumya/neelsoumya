@@ -79,6 +79,7 @@ I have worn many hats:
 ## 👨‍🏫 Teaching Resources
 
 - [Teaching site](https://sites.google.com/site/neelsoumya/teaching)
+- [Teaching collated](https://neelsoumya.github.io/teaching_collated/)
 - [butterfly_detector](https://github.com/neelsoumya/butterfly_detector)
 - [basic_statistics](https://github.com/neelsoumya/basic_statistics)
 - [teaching_resources](https://github.com/neelsoumya/teaching_resources)
